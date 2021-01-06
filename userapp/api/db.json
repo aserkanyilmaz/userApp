@@ -1,0 +1,22 @@
+{
+    "users": [
+      {
+        "id": "unique-1",
+        "name": "Ahmet Serkan Yılmaz",
+        "salary": "5000",
+        "department": "Software Engineer"
+      },
+      {
+        "name": "Kıvanç Özkan",
+        "salary": "3000",
+        "department": "Mimar",
+        "id": "unique-2"
+      },
+      {
+        "name": "Pınar Aydın",
+        "department": "Pazarlama",
+        "salary": "6000",
+        "id": "2W2dzjZ"
+      }
+    ]
+  }
